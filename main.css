@@ -1,0 +1,33 @@
+body {
+  font-size: 30px;
+  margin: 0;
+}
+.parent {
+  margin-bottom: -40px;
+  width: 100%;
+  border-radius: 0;
+}
+div {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  font-weight: bold;
+  text-align: center;
+  width: fit-content;
+  margin: 50px auto 10px auto;
+  border-radius: 7px;
+}
+button {
+  display: block;
+  margin: 1px auto;
+  background-color: black;
+  color: white;
+  padding: 7px 10px;
+  font-weight: bold;
+  text-align: center;
+  width: fit-content;
+  margin: 10px auto;
+  border-radius: 7px;
+  border: none;
+  cursor: pointer;
+}
